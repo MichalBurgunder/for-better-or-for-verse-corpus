@@ -1,0 +1,9 @@
++--+
+Ros es are red,
++--+
+Vio lets are blue,
++--+
+Sug ar is sweet,
+-+-+
+And so are you.
+
