@@ -1,9 +1,9 @@
 +--+
-Ros es are red,
+Roses are red,
 +--+
-Vio lets are blue,
+Violets are blue,
 +--+
-Sug ar is sweet,
+Sugar is sweet,
 -+-+
 And so are you.
 
